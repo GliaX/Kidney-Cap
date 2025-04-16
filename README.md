@@ -41,7 +41,7 @@ https://glia.org/pages/glia-kidney-cap
 
 * Filament: PetG
 * Quality: 0.20 mm
-* Supports: None
+* Supports: Needed for keychain hole
 * Infill: 15%
 
 PetG is a non-reactive, hypoallergenic and non-toxic material used for various medical applications. Its high density is perfect for creating complex components in an easier and faster way compared to conventional methods.
